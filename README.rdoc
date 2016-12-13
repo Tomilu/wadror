@@ -1,1 +1,1 @@
-https://salty-island-48723.herokuapp.com/
+https://tomilu-ratebeer.herokuapp.com/
